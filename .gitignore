@@ -1,0 +1,6 @@
+data/
+docs/superpowers
+docs/words
+*.swp
+*.swo
+.ipynb_checkpoints/
